@@ -1,1 +1,3 @@
 # blood_transfusion_prediction
+**Data-driven vs Causal Models in Blood Transfusion Prediction**
+This dissertation was an exploration of the potential usefulness of machine learning models and causal models in predicting the volume of blood patients require in the first 12 hours at the hospital. I used datasets from the ACIT study to build a few ML models, at first some regression models but then the problem became a classification task. These results were then compared to previous models. A currently unpublished Bayesian Network that generates a similar prediction output, that was built using military datasets as opposed to the civilian datasets I used, was used to highlight key advantages of the two types of models.
